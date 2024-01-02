@@ -6,4 +6,4 @@
 
 2. Create your own resume in JSON format
 
-- The resume is created by using JavaScript Object is in the **resume-details-object** folder.
+- The resume is created by using JSON format is in the **resume-details-object** folder.
