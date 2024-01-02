@@ -1,0 +1,60 @@
+{
+  "personalInfo": {
+    "name": "DHIVAHAR.J",
+    "mailid": "dhivahar@gamil.com",
+    "dateOfBirth": "19 March 1999",
+    "address": {
+      "streetAddress": "Radhakrishnan st",
+      "village": "Sillamarathupatti",
+      "district": "Theni",
+      "state": "Tamilnadu",
+      "country": "India"
+    }
+  },
+  "education": {
+    "school": [
+      {
+        "sslc": {
+          "schoolName": "Government Higher Secondary School",
+          "place": "sillamarathupatti",
+          "board": "state Board",
+          "year": "2014",
+          "percentage": "93.4"
+        }
+      },
+      {
+        "hsc": {
+          "schoolName": "Nadar Saraswathi Higher Secondary School",
+          "place": "theni",
+          "board": "state board",
+          "year": "2016",
+          "percentage": "74"
+        }
+      }
+    ],
+    "degree": {
+      "bachelorOfEngineering": {
+        "college": {
+          "name": "Jerusalem College of Engineering",
+          "place": "chennai",
+          "course": "B.E in Electronics and Instrumentation Engineering",
+          "duration": "2016 - 2020",
+          "university": "Anna University",
+          "finalYearProject": "Android App Based Home Automation using IoT",
+          "percentage": "68.6"
+        }
+      }
+    },
+    "curricularActivities": [
+      "President of INZTROZ'19 National Level Technical Symposium held on 27th September 2019",
+      "Member of Instrumentation Society of India",
+      "Member of Young India"
+    ]
+  },
+  "workExperience": "worked as a Robotic Programmer (YASKAWA) in K-Lite industries, chennai",
+  "technicalSkills": {
+    "programming": ["JavaScript", "HTML"],
+    "toolsAndFrameworks": ["nodejs"],
+    "learning": "MERN stack"
+  }
+}
